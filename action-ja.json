@@ -1,0 +1,24 @@
+{
+  "locale": "ja",
+  "actions": [{
+    "description": "Default Welcome Intent",
+    "name": "MAIN",
+    "fulfillment": {
+      "conversationName": "welcome"
+    },
+    "intent": {
+      "name": "actions.intent.MAIN",
+      "trigger": {
+        "queryPatterns": [
+          "生麦生米生卵につないで"
+        ]
+      }
+    }
+  }],
+  "conversations": {
+    "welcome": {
+      "name": "welcome",
+      "url": "https://<HOST>/<PATH>/response.json"
+    }
+  }
+}

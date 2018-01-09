@@ -1,8 +1,8 @@
 {
-  "expectUserResponse": false,
-  "finalResponse": {
-    "speechResponse": {
-      "textToSpeech": "生麦生米生卵。隣の客はよく柿食う客だ。青巻紙赤巻紙黄巻紙。東京特許許可局許可局長。"
+  "expect_user_response": false,
+  "final_response": {
+    "speech_response": {
+      "text_to_speech": "生麦生米生卵。隣の客はよく柿食う客だ。青巻紙赤巻紙黄巻 紙。東京特許許可局許可局長。"
     }
   }
 }

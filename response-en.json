@@ -4,7 +4,7 @@
     "richResponse": {
       "items": [{
         "simpleResponse": {
-          "ssml": "<speak>Let me speak a famous Japanese tongue twister which means \"raw wheat, raw rice, raw eggs\", and three more. Here we go. <audio src=\"https://<HOST>/<PATH>/audio.mp3\" /></speak>"
+          "ssml": "<speak>Let me speak a famous Japanese tongue twister which means \"raw wheat, raw rice, raw eggs\", and three more in Japanese. Here we go. <audio src=\"https://<HOST>/<PATH>/audio.mp3\" /></speak>"
 	}
       }]
     }

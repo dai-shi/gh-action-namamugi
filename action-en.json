@@ -1,5 +1,5 @@
 {
-  "locale": "ja",
+  "locale": "en",
   "actions": [{
     "description": "Default Welcome Intent",
     "name": "MAIN",
@@ -13,7 +13,7 @@
   "conversations": {
     "welcome": {
       "name": "welcome",
-      "url": "https://<HOST>/<PATH>/response-ja.json",
+      "url": "https://<HOST>/<PATH>/response-en.json",
       "fulfillmentApiVersion": 2
     }
   }
